@@ -1,0 +1,6 @@
+Django==2.2.5
+os
+path
+views
+json
+.models
